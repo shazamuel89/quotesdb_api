@@ -1,0 +1,7 @@
+# Don't forget to add this file to .gitignore
+
+SetEnv USERNAME "quotesdb_z2vh_user"
+SetEnv PASSWORD "fg9H4cxj7ERKsx2l7FZBs8LHjhJWdTyF"
+SetEnv DBNAME "quotesdb_z2vh"
+SetEnv HOST "dpg-cv56er8fnakc73eotl4g-a.oregon-postgres.render.com"
+SetEnv PORT "5432"
